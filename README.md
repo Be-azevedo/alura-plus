@@ -3,6 +3,9 @@ Trata-se de modelo de página informativa, com os planos disponíveis, formas de
 
 ![image](https://raw.githubusercontent.com/Be-azevedo/alura-plus/main/tela%20inicial.JPG)
 
+### Link para visualização
+https://be-azevedo.github.io/alura-plus/
+
 ## Ferramentas utilizadas:
 
 * HTML
